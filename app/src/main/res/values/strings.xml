@@ -7,4 +7,10 @@
     <string name="form_specialite">Spécialité</string>
     <string name="button_save_cv">Save CV</string>
     <string name="btn_view_cvs">Get Started</string>
+    <string name="form_age">Age</string>
+    <string name="form_adresse">Adresse</string>
+    <string name="form_email">Email</string>
+    <string name="form_telephone">Telephone</string>
+    <string name="form_niveau_etude">Niveau d\'étude</string>
+    <string name="form_experience_pro">Expérience Professionnelle</string>
 </resources>

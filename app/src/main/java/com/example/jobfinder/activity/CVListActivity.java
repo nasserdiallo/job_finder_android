@@ -60,7 +60,6 @@ public class CVListActivity extends AppCompatActivity {
 
     private void populateListView(List<CV> cvList) {
         CVAdapter cvAdapter = new CVAdapter(cvList);
-        Toast.makeText(CVListActivity.this, " Size : " + cvList.get(0).toString() , Toast.LENGTH_SHORT).show();
         recyclerView.setAdapter(cvAdapter);
     }
 
