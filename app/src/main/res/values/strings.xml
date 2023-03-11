@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JobFinder</string>
+
+
+    <string name="form_last_name">Nom</string>
+    <string name="form_first_name">Prenom</string>
+    <string name="form_specialite">Spécialité</string>
+    <string name="button_save_cv">Save CV</string>
+    <string name="btn_view_cvs">Get Started</string>
+</resources>
